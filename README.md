@@ -1,47 +1,94 @@
-# Data Scientist
+# Maryam Kameli
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+- **Email:** [kamel026@umn.edu](mailto:kamel026@umn.edu)
+- **Phone:** +1 (952) 212-8865
+- **LinkedIn:** [Maryam Kameli](https://www.linkedin.com/in/maryam-kameli)
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+---
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+## **Education**
+- **Doctor of Philosophy in Computer Science** | University of Minnesota, Minneapolis, MN (_September 2023 - Present_)  
+  GPA: 3.79/4.00  
+  **Thesis:** Cybersickness Mitigation by Machine Learning Methods  
+  **Supervisor:** Professor Victoria Interrante
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- **Master of Science in Computer Science** | University of Minnesota Duluth, Duluth, MN (_January 2021 - May 2023_)  
+  GPA: 3.85/4.00  
+  **Thesis:** Exploring Gender Differences in Brain Activity while Performing Different Tasks  
+  **Supervisor:** Professor Arshia Khan
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+- **Bachelor of Science in Electrical Engineering and Electronics** | K. N. Toosi University of Technology, Tehran, Iran (_September 2017 - September 2021_)  
+  GPA: 17.56/20.00  
+  **Thesis:** Seizure Prediction by Deep Learning Methods  
+  **Supervisor:** Professor Ali Khadem
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+---
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+## **Research Experience**
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### **Semantically-Aware Diver Activity Recognition**  
+**University of Minnesota, Minneapolis, MN** (_September 2023 - April 2023_)  
+- Created a transformer-based framework for Autonomous Underwater Vehicles (AUVs) to analyze and recognize diver activities for effective multi-human-robot collaboration underwater.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+### **Improving Autonomous Mapping and Navigation with Social Robots**  
+**University of Minnesota Duluth, Duluth, MN** (_January 2021 - January 2022_)  
+- Enhanced the navigation capabilities of the Pepper robot by integrating a LiDAR sensor and Jetson Nano board, boosting data transmission speed. Utilized the Robot Operating System (ROS) framework for optimization.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+### **Real-time Human Fall Detection Framework**  
+**University of Minnesota Duluth, Duluth, MN** (_January 2021 - January 2022_)  
+- Developed a sensor fusion system with predictive capabilities to anticipate falls within a 15-minute timeframe, using wearable sensors for biometric data (heart rate, blood pressure, galvanic skin response) integrated with a neural network for real-time analysis.
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+### **Seizure Prediction by Deep Learning Methods**  
+**K. N. Toosi University of Technology, Tehran, Iran** (_August 2020 - September 2021_)  
+- Developed a seizure prediction system using machine learning techniques (MLP, CNN, LSTM, Bi-LSTM) to classify epileptic EEG signals, providing alerts to patients up to one hour before a seizure.
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+---
 
-## Publications
-1. 
+## **Publications**
+1. M. Kameli, T. Zurales, and A. Khan, *Improved Navigation for Social Robots Through Process Offloading*, IEEE International Conference on Computational Science and Computational Intelligence (CSCI), 2022.
+2. M. Kameli, and A. Khan, *Unraveling Gender-Based Neural Variations in Task Performance: An EEG Study*, IEEE International Conference on E-health Networking, Application & Services (Healthcom), 2023.
 
-- [Data Science Blog](https://medium.com/@shawhin)
+---
+
+## **Technical Skills**
+- **Languages:** Java, C/C++, C#, Python, JavaScript, HTML, CSS, Prolog, R, Assembly, VHDL, SQL, Kotlin
+- **Engineering Software:** MATLAB, Simulink, PSpice, HSpice, Proteus, Altium Designer, Cura
+- **Libraries:** Numpy, TensorFlow, Keras, PyTorch, Pandas, OpenCV, MNE, React, Bootstrap
+- **Platforms:** Linux, Gentoo, Nginx, NodeJS, Robot Operating System (ROS)
+- **Tools:** LATEX, Kubernetes, Docker, Git, PostgreSQL, MySQL, SQLite
+- **Game Engines:** Unity, Unreal Engine
+
+---
+
+## **Selected Course Projects**
+
+### **Space Mission Success Predictor**  
+**Spring 2023** | **Data Mining**  
+- Developed advanced predictive models leveraging space mission datasets to forecast mission outcomes (success or failure) and identify critical factors influencing mission performance.
+
+### **Sub-Segmentation of Objects with Possible Transparent Areas**  
+**Spring 2023** | **Computer Vision**  
+- Developed an object segmentation pipeline by integrating Meta’s “Segment Anything Model” with depth estimation techniques to improve segmentation accuracy in challenging scenarios like occlusions and overlapping objects.
+
+### **Video-based 3D Object Reconstruction**  
+**Fall 2023** | **Robot Vision**  
+- Designed and implemented a 3D reconstruction system to capture video footage of objects and generate accurate 3D models, enhancing efficiency in the reconstruction process.
+
+### **Emotion Recognition**  
+**Fall 2022** | **Sensors and Internet of Things**  
+- Developed a sensor fusion system to classify emotional responses to video stimuli using EEG, EMG, and EDA data integrated with a neural network for emotion recognition.
+
+---
+
+## **Volunteer Experience**
+
+### **Machine Learning Summer Day Camp**  
+**University of Minnesota** (_July 2024_)  
+- Volunteered as a Teaching Assistant for 11th and 12th-grade students, leading them through a curriculum on machine learning, guiding projects, and fostering teamwork.
+
+### **Resource Instructor in CSE:TALK Program**  
+**College of Science and Engineering, University of Minnesota** (_July 2024_)  
+- Led teaching sessions for first-year international students to prepare them for roles as teaching assistants, evaluating their performance and offering feedback on lesson plans and language tips.
+
+---
+
