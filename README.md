@@ -7,7 +7,15 @@
 ---
 
 ## **Personal Tagline**  
-_"Intrested at the intersection of machine learning and immersive virtual experiences to make technology more intuitive and accessible."_
+I am a PhD student specializing in **Machine Learning**, **Virtual Reality**, and **Computer Vision**, with expertise in **Unity** and **Unreal Engine** development. My research focuses on **Cybersickness Mitigation**, aiming to create immersive environments that are accessible and enjoyable for everyone.
+
+--
+
+## **Technical Focus Areas**
+- **Unity Development**: Experienced in creating immersive environments for virtual reality applications.  
+- **Unreal Engine**: Skilled in designing high-fidelity virtual simulations.  
+- **Machine Learning**: Proficient in applying deep learning frameworks to solve real-world challenges.  
+- **Computer Vision**: Focused on image processing, object detection, and 3D reconstruction.  
 
 ---
 ## Table of Contents
@@ -22,7 +30,7 @@ _"Intrested at the intersection of machine learning and immersive virtual experi
 ---
 
 ## **Contact Me**  
-💌 **Email:** [kamel026@umn.edu](mailto:kamel026@umn.edu)  
+📧 **Email:** [kamel026@umn.edu](mailto:kamel026@umn.edu)  
 📱 **Phone:** +1 (952) 212-8865  
 🔗 **LinkedIn:** [Maryam Kameli](https://www.linkedin.com/in/maryam-kameli)
 
