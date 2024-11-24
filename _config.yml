@@ -2,6 +2,7 @@ title: Maryam Kameli
 img_cdn:
 
 avatar: /assets/img/profile.jpg
-theme: jekyll-theme-slate 
+theme: jekyll-theme-minimal-mistakes 
+#jekyll-theme-slate 
 #jekyll-theme-cayman
 
