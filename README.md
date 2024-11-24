@@ -85,11 +85,8 @@ _"Intrested at the intersection of machine learning and immersive virtual experi
 ---
 
 ## **Technical Skills**
-### Programming Languages
-- **Proficient:** Python, Java, C++, C#
-- **Familiar:** Prolog, Assembly, Kotlin
-
-### Tools & Frameworks
+- **Programming Languages:** Java, C/C++, C#, Python, JavaScript, HTML, CSS, Standard ML, Scheme, Prolog, Ada, OCaml,
+R, Assembly, VHDL, SQL, Kotlin
 - **Libraries:** Numpy, TensorFlow, Keras, PyTorch, Pandas, OpenCV, MNE  
 - **Platforms:** Linux, ROS, Kubernetes, Docker  
 - **Game Engines:** Unity, Unreal Engine  
