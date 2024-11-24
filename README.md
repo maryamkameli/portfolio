@@ -7,9 +7,9 @@
 ---
 
 ## **Personal Tagline**  
-I am a PhD student specializing in **Machine Learning**, **Virtual Reality**, and **Computer Vision**, with expertise in **Unity** and **Unreal Engine** development. My research focuses on **Cybersickness Mitigation**, aiming to create immersive environments that are accessible and enjoyable for everyone.
+I am a PhD student specializing in **Machine Learning**, **Virtual Reality**, and **Computer Vision**, with expertise in **Unity** and **Unreal Engine** development. My research focuses on **Cybersickness Mitigation**, aiming to create immersive environments that are accessible and enjoyable for everyone. Feel free to [contact me](mailto:kamel026@umn.edu) for collaboration or discussions.
 
---
+---
 
 ## **Technical Focus Areas**
 - **Unity Development**: Experienced in creating immersive environments for virtual reality applications.  
@@ -18,6 +18,7 @@ I am a PhD student specializing in **Machine Learning**, **Virtual Reality**, an
 - **Computer Vision**: Focused on image processing, object detection, and 3D reconstruction.  
 
 ---
+
 ## Table of Contents
 - [Contact Me](#contact-me)
 - [Education](#education)
@@ -25,6 +26,7 @@ I am a PhD student specializing in **Machine Learning**, **Virtual Reality**, an
 - [Publications](#publications)
 - [Technical Skills](#technical-skills)
 - [Selected Course Projects](#selected-course-projects)
+- [Honors and Awards](#honors-and-awards)
 - [Volunteer Experience](#volunteer-experience)
 
 ---
@@ -93,8 +95,7 @@ I am a PhD student specializing in **Machine Learning**, **Virtual Reality**, an
 ---
 
 ## **Technical Skills**
-- **Programming Languages:** Java, C/C++, C#, Python, JavaScript, HTML, CSS, Standard ML, Scheme, Prolog, Ada, OCaml,
-R, Assembly, VHDL, SQL, Kotlin
+- **Programming Languages:** Java, C/C++, C#, Python, JavaScript, HTML, CSS, Standard ML, Scheme, Prolog, Ada, OCaml, R, Assembly, VHDL, SQL, Kotlin  
 - **Libraries:** Numpy, TensorFlow, Keras, PyTorch, Pandas, OpenCV, MNE  
 - **Platforms:** Linux, ROS, Kubernetes, Docker  
 - **Game Engines:** Unity, Unreal Engine  
