@@ -4,9 +4,6 @@
 ![Machine Learning](https://img.shields.io/badge/Focus-Machine%20Learning-yellow)  
 ![Unity Developer](https://img.shields.io/badge/Unity%20Developer-Virtual%20Reality-brightgreen)
 
----
-
-## **Personal Tagline**  
 I am a PhD student specializing in **Machine Learning**, **Virtual Reality**, and **Computer Vision**, with expertise in **Unity** and **Unreal Engine** development. My research focuses on **Cybersickness Mitigation**, aiming to create immersive environments that are accessible and enjoyable for everyone. Feel free to [email me](mailto:kamel026@umn.edu) for collaboration or discussions.
 
 ---
