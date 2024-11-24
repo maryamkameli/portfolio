@@ -8,19 +8,19 @@
 
 ## **Education**
 - **Doctor of Philosophy in Computer Science**
-- University of Minnesota, Minneapolis, MN (_September 2023 - Present_)  
+  University of Minnesota, Minneapolis, MN (_September 2023 - Present_)  
   GPA: 3.79/4.00  
   **Thesis:** Cybersickness Mitigation by Machine Learning Methods  
   **Supervisor:** Professor Victoria Interrante
 
 - **Master of Science in Computer Science**
-- University of Minnesota Duluth, Duluth, MN (_January 2021 - May 2023_)  
+  University of Minnesota Duluth, Duluth, MN (_January 2021 - May 2023_)  
   GPA: 3.85/4.00  
   **Thesis:** Exploring Gender Differences in Brain Activity while Performing Different Tasks  
   **Supervisor:** Professor Arshia Khan
 
 - **Bachelor of Science in Electrical Engineering and Electronics**
-- K. N. Toosi University of Technology, Tehran, Iran (_September 2017 - September 2021_)  
+  K. N. Toosi University of Technology, Tehran, Iran (_September 2017 - September 2021_)  
   GPA: 17.56/20.00  
   **Thesis:** Seizure Prediction by Deep Learning Methods  
   **Supervisor:** Professor Ali Khadem
