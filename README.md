@@ -7,7 +7,7 @@
 ---
 
 ## **Personal Tagline**  
-I am a PhD student specializing in **Machine Learning**, **Virtual Reality**, and **Computer Vision**, with expertise in **Unity** and **Unreal Engine** development. My research focuses on **Cybersickness Mitigation**, aiming to create immersive environments that are accessible and enjoyable for everyone. Feel free to [contact me](mailto:kamel026@umn.edu) for collaboration or discussions.
+I am a PhD student specializing in **Machine Learning**, **Virtual Reality**, and **Computer Vision**, with expertise in **Unity** and **Unreal Engine** development. My research focuses on **Cybersickness Mitigation**, aiming to create immersive environments that are accessible and enjoyable for everyone. Feel free to [email me](mailto:kamel026@umn.edu) for collaboration or discussions.
 
 ---
 
@@ -64,24 +64,20 @@ I am a PhD student specializing in **Machine Learning**, **Virtual Reality**, an
 ### **Semantically-Aware Diver Activity Recognition**  
 **University of Minnesota, Minneapolis, MN** (_September 2023 - April 2023_)  
 - Created a transformer-based framework for Autonomous Underwater Vehicles (AUVs) to analyze and recognize diver activities for effective multi-human-robot collaboration underwater.  
-- **Impact:** Enhanced human-robot collaboration in marine operations.
 
 ### **Improving Autonomous Mapping and Navigation with Social Robots**  
 **University of Minnesota Duluth, Duluth, MN** (_January 2021 - January 2022_)  
 - Enhanced the navigation capabilities of the Pepper robot by integrating a LiDAR sensor and Jetson Nano board, boosting data transmission speed.  
-- **Impact:** Achieved a 20% improvement in mapping accuracy.  
 - Utilized the Robot Operating System (ROS) framework for optimization.
 
 ### **Real-time Human Fall Detection Framework**  
 **University of Minnesota Duluth, Duluth, MN** (_January 2021 - January 2022_)  
 - Developed a sensor fusion system with predictive capabilities to anticipate falls within a 15-minute timeframe.  
 - Integrated wearable sensors for biometric data (heart rate, blood pressure, galvanic skin response) with a neural network for real-time analysis.  
-- **Impact:** Reduced fall-related injuries in at-risk populations.
 
 ### **Seizure Prediction by Deep Learning Methods**  
 **K. N. Toosi University of Technology, Tehran, Iran** (_August 2020 - September 2021_)  
 - Developed a seizure prediction system using machine learning techniques (MLP, CNN, LSTM, Bi-LSTM) to classify epileptic EEG signals.  
-- **Impact:** Enabled patients to receive alerts up to one hour before a seizure.
 
 ---
 
@@ -107,7 +103,6 @@ I am a PhD student specializing in **Machine Learning**, **Virtual Reality**, an
 ### [Space Mission Success Predictor](https://github.com/maryam/space-mission)  
 **Spring 2023** | **Data Mining**  
 - Developed advanced predictive models leveraging space mission datasets to forecast mission outcomes (success or failure).  
-- **Impact:** Identified critical factors influencing mission performance.
 
 ### [Sub-Segmentation of Objects with Possible Transparent Areas](https://github.com/maryam/object-segmentation)  
 **Spring 2023** | **Computer Vision**  
@@ -120,17 +115,14 @@ I am a PhD student specializing in **Machine Learning**, **Virtual Reality**, an
 ### **Neural Machine Translation**
 **Spring 2022** | **Advanced Natural Language Processing**  
 - Designed a neural machine translation system utilizing the Transformer architecture in PyTorch to translate text between two languages.  
-- **Impact:** Demonstrated the ability of deep learning techniques to model complex sequential data with high accuracy.
 
 ### **Position Detection in Soccer**
 **Spring 2021** | **Computer Vision**  
 - Implemented a system to analyze soccer match footage for locating and tracking players, identifying their teams, and generating a 2D map of player positions from a bird's-eye view.  
-- **Impact:** Created tools to enhance sports analytics and tactical analysis for coaches and analysts.
 
 ### **Smart Parking System**
 **Fall 2020** | **Design of Digital Systems (FPGA, ASIC)**  
 - Designed and simulated a smart parking system using VHDL, capable of monitoring available parking spaces and guiding vehicles to the nearest available spot.  
-- **Impact:** Showcased the potential of FPGA-based systems for efficient, real-time parking management solutions.
 
 ---
 
@@ -147,13 +139,11 @@ I am a PhD student specializing in **Machine Learning**, **Virtual Reality**, an
 ### Machine Learning Summer Day Camp  
 **University of Minnesota** (_July 2024_)  
 - Volunteered as a Teaching Assistant for 11th and 12th-grade students, guiding them through machine learning concepts.  
-- **Impact:** Inspired future computer scientists through hands-on projects and teamwork.  
 
 ### Resource Instructor in CSE:TALK Program  
 **College of Science and Engineering, University of Minnesota** (_July 2024_)  
-- Conducted teaching sessions for first-year international students preparing for teaching assistant roles.  
-- **Impact:** Enhanced students' teaching and communication skills through evaluations and feedback.
+- Demonstrated daily teaching sessions for first year international students to showcase an effective discussion leadership and prepare them for being a teaching assistant.
 
 ---
 
-*Thanks for visiting my portfolio! I'm always open to collaborations and discussions. Let's connect!*
+*Thanks for visiting my portfolio! I'm always open to collaborations and discussions. Let's [connect](mailto:kamel026@umn.edu)!*
