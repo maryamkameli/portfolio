@@ -1,5 +1,7 @@
 title: Maryam Kameli
-logo: /assets/img/profile.jpg
+img_cdn:
+
+avatar: /assets/img/profile.jpg
 theme: jekyll-theme-slate 
 #jekyll-theme-cayman
 
