@@ -101,7 +101,7 @@ I am a PhD student specializing in **Machine Learning**, **Virtual Reality**, an
 **Spring 2023** | **Data Mining**  
 - Developed advanced predictive models leveraging space mission datasets to forecast mission outcomes (success or failure).  
 
-### [Sub-Segmentation of Objects with Possible Transparent Areas]
+### [Sub-Segmentation of Objects with Possible Transparent Areas](https://github.com/maryamkameli/Sub-Segmentation-of-Objects-with-Possible-Transparent-Areas)
 **Spring 2023** | **Computer Vision**  
 - Integrated Meta’s “Segment Anything Model” with depth estimation techniques to improve segmentation accuracy in scenarios like occlusions and overlapping objects.
 
