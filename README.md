@@ -97,11 +97,11 @@ I am a PhD student specializing in **Machine Learning**, **Virtual Reality**, an
 
 ## **Selected Course Projects**
 
-### [Space Mission Success Predictor](https://github.com/maryam/space-mission)  
+### [Space Mission Success Predictor]
 **Spring 2023** | **Data Mining**  
 - Developed advanced predictive models leveraging space mission datasets to forecast mission outcomes (success or failure).  
 
-### [Sub-Segmentation of Objects with Possible Transparent Areas](https://github.com/maryam/object-segmentation)  
+### [Sub-Segmentation of Objects with Possible Transparent Areas]
 **Spring 2023** | **Computer Vision**  
 - Integrated Meta’s “Segment Anything Model” with depth estimation techniques to improve segmentation accuracy in scenarios like occlusions and overlapping objects.
 
