@@ -97,7 +97,7 @@ I am a PhD student specializing in **Machine Learning**, **Virtual Reality**, an
 
 ## **Selected Course Projects**
 
-### [Space Mission Success Predictor]
+### [Space Mission Success Predictor](https://github.com/maryamkameli/Space-Mission-Failure-Prediction)
 **Spring 2023** | **Data Mining**  
 - Developed advanced predictive models leveraging space mission datasets to forecast mission outcomes (success or failure).  
 
